@@ -1,0 +1,273 @@
+Region,Year,maternal_mortality
+Africa Eastern and Southern,1990,933.0
+Africa Eastern and Southern,1991,903.0
+Africa Eastern and Southern,1992,938.0
+Africa Eastern and Southern,1993,913.0
+Africa Eastern and Southern,1994,858.0
+Africa Eastern and Southern,1995,782.0
+Africa Eastern and Southern,1996,762.0
+Africa Eastern and Southern,1997,733.0
+Africa Eastern and Southern,1998,773.0
+Africa Eastern and Southern,1999,646.0
+Africa Eastern and Southern,2000,612.0
+Africa Eastern and Southern,2001,586.0
+Africa Eastern and Southern,2002,564.0
+Africa Eastern and Southern,2003,537.0
+Africa Eastern and Southern,2004,516.0
+Africa Eastern and Southern,2005,510.0
+Africa Eastern and Southern,2006,505.0
+Africa Eastern and Southern,2007,505.0
+Africa Eastern and Southern,2008,503.0
+Africa Eastern and Southern,2009,491.0
+Africa Eastern and Southern,2010,476.0
+Africa Eastern and Southern,2011,457.0
+Africa Eastern and Southern,2012,433.0
+Africa Eastern and Southern,2013,419.0
+Africa Eastern and Southern,2014,409.0
+Africa Eastern and Southern,2015,394.0
+Africa Eastern and Southern,2016,376.0
+Africa Eastern and Southern,2017,354.0
+Africa Eastern and Southern,2018,327.0
+Africa Eastern and Southern,2019,308.0
+Africa Eastern and Southern,2020,290.0
+Africa Eastern and Southern,2021,312.0
+Africa Eastern and Southern,2022,269.0
+Africa Eastern and Southern,2023,268.0
+Africa Western and Central,1990,1060.0
+Africa Western and Central,1991,1050.0
+Africa Western and Central,1992,1020.0
+Africa Western and Central,1993,995.0
+Africa Western and Central,1994,985.0
+Africa Western and Central,1995,969.0
+Africa Western and Central,1996,960.0
+Africa Western and Central,1997,949.0
+Africa Western and Central,1998,944.0
+Africa Western and Central,1999,927.0
+Africa Western and Central,2000,907.0
+Africa Western and Central,2001,899.0
+Africa Western and Central,2002,886.0
+Africa Western and Central,2003,866.0
+Africa Western and Central,2004,851.0
+Africa Western and Central,2005,839.0
+Africa Western and Central,2006,840.0
+Africa Western and Central,2007,834.0
+Africa Western and Central,2008,840.0
+Africa Western and Central,2009,842.0
+Africa Western and Central,2010,839.0
+Africa Western and Central,2011,836.0
+Africa Western and Central,2012,834.0
+Africa Western and Central,2013,832.0
+Africa Western and Central,2014,827.0
+Africa Western and Central,2015,820.0
+Africa Western and Central,2016,799.0
+Africa Western and Central,2017,782.0
+Africa Western and Central,2018,757.0
+Africa Western and Central,2019,744.0
+Africa Western and Central,2020,720.0
+Africa Western and Central,2021,716.0
+Africa Western and Central,2022,674.0
+Africa Western and Central,2023,650.0
+East Asia & Pacific,1990,157.0
+East Asia & Pacific,1991,156.0
+East Asia & Pacific,1992,150.0
+East Asia & Pacific,1993,143.0
+East Asia & Pacific,1994,142.0
+East Asia & Pacific,1995,139.0
+East Asia & Pacific,1996,135.0
+East Asia & Pacific,1997,131.0
+East Asia & Pacific,1998,128.0
+East Asia & Pacific,1999,126.0
+East Asia & Pacific,2000,119.0
+East Asia & Pacific,2001,117.0
+East Asia & Pacific,2002,112.0
+East Asia & Pacific,2003,108.0
+East Asia & Pacific,2004,106.0
+East Asia & Pacific,2005,101.0
+East Asia & Pacific,2006,99.0
+East Asia & Pacific,2007,95.0
+East Asia & Pacific,2008,92.0
+East Asia & Pacific,2009,88.0
+East Asia & Pacific,2010,86.0
+East Asia & Pacific,2011,83.0
+East Asia & Pacific,2012,78.0
+East Asia & Pacific,2013,76.0
+East Asia & Pacific,2014,71.0
+East Asia & Pacific,2015,70.0
+East Asia & Pacific,2016,66.0
+East Asia & Pacific,2017,62.0
+East Asia & Pacific,2018,64.0
+East Asia & Pacific,2019,63.0
+East Asia & Pacific,2020,72.0
+East Asia & Pacific,2021,94.0
+East Asia & Pacific,2022,72.0
+East Asia & Pacific,2023,66.0
+Europe & Central Asia,1990,36.0
+Europe & Central Asia,1991,34.0
+Europe & Central Asia,1992,34.0
+Europe & Central Asia,1993,35.0
+Europe & Central Asia,1994,37.0
+Europe & Central Asia,1995,35.0
+Europe & Central Asia,1996,32.0
+Europe & Central Asia,1997,30.0
+Europe & Central Asia,1998,28.0
+Europe & Central Asia,1999,27.0
+Europe & Central Asia,2000,25.0
+Europe & Central Asia,2001,24.0
+Europe & Central Asia,2002,24.0
+Europe & Central Asia,2003,23.0
+Europe & Central Asia,2004,22.0
+Europe & Central Asia,2005,21.0
+Europe & Central Asia,2006,19.0
+Europe & Central Asia,2007,19.0
+Europe & Central Asia,2008,18.0
+Europe & Central Asia,2009,17.0
+Europe & Central Asia,2010,16.0
+Europe & Central Asia,2011,16.0
+Europe & Central Asia,2012,15.0
+Europe & Central Asia,2013,14.0
+Europe & Central Asia,2014,14.0
+Europe & Central Asia,2015,14.0
+Europe & Central Asia,2016,13.0
+Europe & Central Asia,2017,13.0
+Europe & Central Asia,2018,12.0
+Europe & Central Asia,2019,12.0
+Europe & Central Asia,2020,16.0
+Europe & Central Asia,2021,18.0
+Europe & Central Asia,2022,14.0
+Europe & Central Asia,2023,11.0
+Latin America & Caribbean,1990,146.0
+Latin America & Caribbean,1991,141.0
+Latin America & Caribbean,1992,135.0
+Latin America & Caribbean,1993,129.0
+Latin America & Caribbean,1994,124.0
+Latin America & Caribbean,1995,118.0
+Latin America & Caribbean,1996,113.0
+Latin America & Caribbean,1997,108.0
+Latin America & Caribbean,1998,102.0
+Latin America & Caribbean,1999,97.0
+Latin America & Caribbean,2000,92.0
+Latin America & Caribbean,2001,90.0
+Latin America & Caribbean,2002,87.0
+Latin America & Caribbean,2003,87.0
+Latin America & Caribbean,2004,87.0
+Latin America & Caribbean,2005,85.0
+Latin America & Caribbean,2006,85.0
+Latin America & Caribbean,2007,84.0
+Latin America & Caribbean,2008,84.0
+Latin America & Caribbean,2009,83.0
+Latin America & Caribbean,2010,81.0
+Latin America & Caribbean,2011,77.0
+Latin America & Caribbean,2012,75.0
+Latin America & Caribbean,2013,74.0
+Latin America & Caribbean,2014,74.0
+Latin America & Caribbean,2015,74.0
+Latin America & Caribbean,2016,75.0
+Latin America & Caribbean,2017,76.0
+Latin America & Caribbean,2018,77.0
+Latin America & Caribbean,2019,76.0
+Latin America & Caribbean,2020,94.0
+Latin America & Caribbean,2021,140.0
+Latin America & Caribbean,2022,93.0
+Latin America & Caribbean,2023,77.0
+Middle East & North Africa,1990,171.0
+Middle East & North Africa,1991,159.0
+Middle East & North Africa,1992,150.0
+Middle East & North Africa,1993,144.0
+Middle East & North Africa,1994,140.0
+Middle East & North Africa,1995,134.0
+Middle East & North Africa,1996,128.0
+Middle East & North Africa,1997,122.0
+Middle East & North Africa,1998,115.0
+Middle East & North Africa,1999,109.0
+Middle East & North Africa,2000,103.0
+Middle East & North Africa,2001,97.0
+Middle East & North Africa,2002,91.0
+Middle East & North Africa,2003,87.0
+Middle East & North Africa,2004,83.0
+Middle East & North Africa,2005,78.0
+Middle East & North Africa,2006,75.0
+Middle East & North Africa,2007,71.0
+Middle East & North Africa,2008,67.0
+Middle East & North Africa,2009,65.0
+Middle East & North Africa,2010,63.0
+Middle East & North Africa,2011,61.0
+Middle East & North Africa,2012,59.0
+Middle East & North Africa,2013,57.0
+Middle East & North Africa,2014,55.0
+Middle East & North Africa,2015,54.0
+Middle East & North Africa,2016,53.0
+Middle East & North Africa,2017,52.0
+Middle East & North Africa,2018,51.0
+Middle East & North Africa,2019,51.0
+Middle East & North Africa,2020,60.0
+Middle East & North Africa,2021,74.0
+Middle East & North Africa,2022,50.0
+Middle East & North Africa,2023,47.0
+North America,1990,11.0
+North America,1991,11.0
+North America,1992,11.0
+North America,1993,11.0
+North America,1994,11.0
+North America,1995,11.0
+North America,1996,11.0
+North America,1997,11.0
+North America,1998,11.0
+North America,1999,11.0
+North America,2000,12.0
+North America,2001,12.0
+North America,2002,13.0
+North America,2003,13.0
+North America,2004,13.0
+North America,2005,13.0
+North America,2006,13.0
+North America,2007,13.0
+North America,2008,14.0
+North America,2009,14.0
+North America,2010,14.0
+North America,2011,15.0
+North America,2012,15.0
+North America,2013,16.0
+North America,2014,16.0
+North America,2015,17.0
+North America,2016,17.0
+North America,2017,17.0
+North America,2018,17.0
+North America,2019,17.0
+North America,2020,22.0
+North America,2021,30.0
+North America,2022,20.0
+North America,2023,16.0
+South Asia,1990,567.0
+South Asia,1991,555.0
+South Asia,1992,534.0
+South Asia,1993,522.0
+South Asia,1994,509.0
+South Asia,1995,496.0
+South Asia,1996,481.0
+South Asia,1997,466.0
+South Asia,1998,451.0
+South Asia,1999,432.0
+South Asia,2000,415.0
+South Asia,2001,396.0
+South Asia,2002,376.0
+South Asia,2003,357.0
+South Asia,2004,338.0
+South Asia,2005,318.0
+South Asia,2006,296.0
+South Asia,2007,278.0
+South Asia,2008,259.0
+South Asia,2009,243.0
+South Asia,2010,229.0
+South Asia,2011,215.0
+South Asia,2012,203.0
+South Asia,2013,192.0
+South Asia,2014,182.0
+South Asia,2015,173.0
+South Asia,2016,163.0
+South Asia,2017,155.0
+South Asia,2018,148.0
+South Asia,2019,142.0
+South Asia,2020,145.0
+South Asia,2021,194.0
+South Asia,2022,130.0
+South Asia,2023,120.0
