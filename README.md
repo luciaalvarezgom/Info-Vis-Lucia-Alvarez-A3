@@ -1,7 +1,5 @@
 # Info-Vis-Lucia-Alvarez-A3
 
-# Info-Vis-Lucia-Alvarez-A3
-
 ## Visualization Description
 This project implements an interactive heatmap showing maternal mortality rates by region and year.
 
