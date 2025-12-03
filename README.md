@@ -22,7 +22,7 @@ This project implements an interactive heatmap showing maternal mortality rates 
 ---
 
 ## Dataset
-Source: **World Development Indicators (WDI)**, World Bank  
+Source: **World Development Indicators (WDI)**, World Bank    
 https://datacatalog.worldbank.org/search/dataset/0037712/World-Development-Indicators  
 
 Subset: Maternal mortality indicators aggregated by region and year (CSV).
@@ -30,11 +30,11 @@ Subset: Maternal mortality indicators aggregated by region and year (CSV).
 ---
 
 ## Repository Structure
-index.html → main webpage
-style.css → styling
-script.js → D3.js heatmap implementation
-d3_dataset.csv → subset of the WDI dataset used for the visualization
-screenshot.png → reference screenshot for assignment submission
+index.html → main webpage 
+style.css → styling  
+script.js → D3.js heatmap implementation  
+d3_dataset.csv → subset of the WDI dataset used for the visualization  
+screenshot.png → reference screenshot for assignment submission  
 
 ---
 
